@@ -23,7 +23,7 @@ Run :
 
 1.	Run the command above and restart PopClip to make it work.
 
-1.	Download the extention in the section below.
+1.	Download the extention [here](https://github.com/fabburst/PopClip-Extensions/raw/master/VisualStudioCodeText.popclipextz)
 
 1.	Double click the downloaded .popclipextz file to install.
 -------------------------------
